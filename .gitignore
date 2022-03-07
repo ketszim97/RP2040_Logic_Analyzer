@@ -1,0 +1,27 @@
+# ---> Altium
+# Git Ignore File - Altium Projects
+# Created by AllSpice (www.allspice.io)
+
+# AllSpice metadata
+.allspice/
+
+# Altium files
+**.PrjPcbStructure
+**.SchDocPreview
+**.PcbDocPreview
+**.PcbDoc.htm
+**.SchDoc.htm
+**.DS_Store
+**.$$$
+IDFReport*
+
+# Altium data directories
+**/__Previews/
+**/History/
+
+# Altium default output directories
+**/Project\ Outputs*/
+**/ProjectOutputs*/
+**/Project\ Logs*/
+**/Assembly\ Exports*/
+
