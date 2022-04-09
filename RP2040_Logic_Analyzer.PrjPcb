@@ -61,7 +61,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HHHMPUNP
 
 [Document2]
 DocumentPath=..\Libraries\component_libraries\Capacitors.SchLib
@@ -78,7 +78,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IJQHDWPL
 
 [Document3]
 DocumentPath=..\Libraries\component_libraries\Connectors.PcbLib
@@ -95,7 +95,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BKOKVFVC
 
 [Document4]
 DocumentPath=..\Libraries\component_libraries\Connectors.SchLib
@@ -112,7 +112,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGCWYWUW
 
 [Document5]
 DocumentPath=..\Libraries\component_libraries\Diodes.PcbLib
@@ -129,7 +129,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ARLLQFET
 
 [Document6]
 DocumentPath=..\Libraries\component_libraries\Diodes.SchLib
@@ -146,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TDDWGQVN
 
 [Document7]
 DocumentPath=..\Libraries\component_libraries\HTP.PcbLib
@@ -231,7 +231,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DUOBPGJB
 
 [Document12]
 DocumentPath=..\Libraries\component_libraries\Integrated Circuits.SchLib
@@ -248,7 +248,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HANEFUJO
 
 [Document13]
 DocumentPath=..\Libraries\component_libraries\Logos.PcbLib
@@ -282,7 +282,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MNHBPGGH
 
 [Document15]
 DocumentPath=..\Libraries\component_libraries\Resistors.SchLib
@@ -299,7 +299,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QWEWSAMJ
 
 [Document16]
 DocumentPath=..\Libraries\component_libraries\RF Components.PcbLib
@@ -333,7 +333,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IGRIJPVK
 
 [Document18]
 DocumentPath=..\Libraries\component_libraries\Switches.PcbLib
@@ -435,7 +435,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UPINNTBM
 
 [Document24]
 DocumentPath=RP2040_Logic_Analyzer.PcbDoc
@@ -452,7 +452,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KEJSLYAJ
 
 [Document25]
 DocumentPath=RP2040_Logic_Analyzer.SchDoc
@@ -461,15 +461,45 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQJLIAWP
+
+[ProjectVariant1]
+UniqueID=21AB4EDA-7EEC-4593-AE95-80467E6C303C
+Description=ADC Fitted
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R?|UniqueId=\YMWTEWWX|Kind=1|AlternatePart= 
+Variation2=Designator=R?|UniqueId=\FIQYJBAO|Kind=1|AlternatePart= 
+Variation3=Designator=R?|UniqueId=\DAWQAGZS|Kind=1|AlternatePart= 
+Variation4=Designator=R?|UniqueId=\SYUXYDKV|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=B8F63E68-ADFA-46C4-ABC8-F1B23A316B96
+Description=ADC DNP
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=R?|UniqueId=\XCYNIGVW|Kind=1|AlternatePart= 
+Variation2=Designator=U?|UniqueId=\FVUFPOGL|Kind=1|AlternatePart= 
+Variation3=Designator=CN?|UniqueId=\IUUYHZVW|Kind=1|AlternatePart= 
+Variation4=Designator=CN?|UniqueId=\BRFPGKRZ|Kind=1|AlternatePart= 
+Variation5=Designator=RN?|UniqueId=\QGIOCJXT|Kind=1|AlternatePart= 
+Variation6=Designator=RN?|UniqueId=\KPPHAETG|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1391,6 +1421,70 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+1.1V|NetColor=$002541CC
+Net2=NetName=+3.3V|NetColor=$002541CC
+Net3=NetName=A\D\C\_\C\S\|NetColor=$0066D9FF
+Net4=NetName=ADC_CH0|NetColor=$007DC493
+Net5=NetName=ADC_CH1|NetColor=$007DC493
+Net6=NetName=ADC_CH2|NetColor=$007DC493
+Net7=NetName=ADC_CH3|NetColor=$007DC493
+Net8=NetName=ADC_CH4|NetColor=$007DC493
+Net9=NetName=ADC_CH5|NetColor=$007DC493
+Net10=NetName=ADC_CH6|NetColor=$007DC493
+Net11=NetName=ADC_CH7|NetColor=$007DC493
+Net12=NetName=ADC_CIPO|NetColor=$0066D9FF
+Net13=NetName=ADC_COPI|NetColor=$0066D9FF
+Net14=NetName=ADC_EXT0|NetColor=$004FA86A
+Net15=NetName=ADC_EXT1|NetColor=$004FA86A
+Net16=NetName=ADC_EXT2|NetColor=$004FA86A
+Net17=NetName=ADC_EXT3|NetColor=$004FA86A
+Net18=NetName=ADC_EXT4|NetColor=$004FA86A
+Net19=NetName=ADC_EXT5|NetColor=$004FA86A
+Net20=NetName=ADC_EXT6|NetColor=$004FA86A
+Net21=NetName=ADC_EXT7|NetColor=$004FA86A
+Net22=NetName=ADC_INT0|NetColor=$00134E27
+Net23=NetName=ADC_INT1|NetColor=$00134E27
+Net24=NetName=ADC_INT2|NetColor=$00134E27
+Net25=NetName=ADC_SCLK|NetColor=$0066D9FF
+Net26=NetName=BUILD_ID|NetColor=$00FF0099
+Net27=NetName=GND|NetColor=$00434343
+Net28=NetName=LA_CH0|NetColor=$00AFA576
+Net29=NetName=LA_CH1|NetColor=$00AFA576
+Net30=NetName=LA_CH2|NetColor=$00AFA576
+Net31=NetName=LA_CH3|NetColor=$00AFA576
+Net32=NetName=LA_CH4|NetColor=$00AFA576
+Net33=NetName=LA_CH5|NetColor=$00AFA576
+Net34=NetName=LA_CH6|NetColor=$00AFA576
+Net35=NetName=LA_CH7|NetColor=$00AFA576
+Net36=NetName=LA_EXT_CH0|NetColor=$00C6853D
+Net37=NetName=LA_EXT_CH1|NetColor=$00C6853D
+Net38=NetName=LA_EXT_CH2|NetColor=$00C6853D
+Net39=NetName=LA_EXT_CH3|NetColor=$00C6853D
+Net40=NetName=LA_EXT_CH4|NetColor=$00C6853D
+Net41=NetName=LA_EXT_CH5|NetColor=$00C6853D
+Net42=NetName=LA_EXT_CH6|NetColor=$00C6853D
+Net43=NetName=LA_EXT_CH7|NetColor=$00C6853D
+Net44=NetName=LA_INT_CH0|NetColor=$00C6853D
+Net45=NetName=LA_INT_CH1|NetColor=$00C6853D
+Net46=NetName=LA_INT_CH2|NetColor=$00C6853D
+Net47=NetName=LA_INT_CH3|NetColor=$00C6853D
+Net48=NetName=LA_INT_CH4|NetColor=$00C6853D
+Net49=NetName=LA_INT_CH5|NetColor=$00C6853D
+Net50=NetName=LA_INT_CH6|NetColor=$00C6853D
+Net51=NetName=LA_INT_CH7|NetColor=$00C6853D
+Net52=NetName=NetC?_2|NetColor=clWhite
+Net53=NetName=Q\S\P\I\_\S\S\|NetColor=$0066D9FF
+Net54=NetName=QSPI_SCLK|NetColor=$0066D9FF
+Net55=NetName=QSPI_SD0|NetColor=$0066D9FF
+Net56=NetName=QSPI_SD1|NetColor=$0066D9FF
+Net57=NetName=QSPI_SD2|NetColor=$0066D9FF
+Net58=NetName=QSPI_SD3|NetColor=$0066D9FF
+Net59=NetName=SWCLK|NetColor=clWhite
+Net60=NetName=SWDIO|NetColor=clWhite
+Net61=NetName=VA|NetColor=$002541CC
+Net62=NetName=VBUS|NetColor=$002541CC
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
